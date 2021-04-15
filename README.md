@@ -9,14 +9,9 @@
 
 # Simple Password Generator
 
-This is very simple to Use
-
 * Example:
-	* py Password.py
-	* Y or N Depending on what you whant!
-	* Lenght of the Password
-	* How many Passwords
+	* Just Chose Special Char or Not.
+	* Lenght of the Passwords.
+	* And Finaly How Many Passwords!
 
-## Example of Some Passwords
-
-![Proof](/img/proof.ong)
+[Proof]
