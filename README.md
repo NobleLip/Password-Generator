@@ -14,4 +14,7 @@
 	* Lenght of the Passwords.
 	* And Finaly How Many Passwords!
 
-[Proof]
+
+## Example of the Code Working
+
+![Proof](img/proof.png)
