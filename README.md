@@ -17,4 +17,4 @@
 
 ## Example of the Code Working
 
-![Proof](img/proof.png)
+![Proof](img/Proof.png)
